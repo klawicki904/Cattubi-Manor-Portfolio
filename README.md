@@ -24,9 +24,9 @@ Projekt został porzucony na etapie dopracowywania warstwy wizualnej (animacje, 
 ![Preview 3](media/Preview3.jpg)
 
 ### Wideo
-[![Preview 4](https://raw.githubusercontent.com/klawicki904/Cattubi-Manor-Portfolio/media/Preview4Thumbnail.png)](https://raw.githubusercontent.com/klawicki904/Cattubi-Manor-Portfolio/media/Preview4.mp4)
-[![Preview 5](https://raw.githubusercontent.com/klawicki904/Cattubi-Manor-Portfolio/media/Preview5Thumbnail.png)](https://raw.githubusercontent.com/klawicki904/Cattubi-Manor-Portfolio/media/Preview5.mp4)
-[![Preview 6](https://raw.githubusercontent.com/klawicki904/Cattubi-Manor-Portfolio/media/Preview6Thumbnail.png)](https://raw.githubusercontent.com/klawicki904/Cattubi-Manor-Portfolio/media/Preview6.mp4)
+[![Preview 4](https://raw.githubusercontent.com/klawicki904/Cattubi-Manor-Portfolio/main/media/Preview4Thumbnail.png)](https://raw.githubusercontent.com/klawicki904/Cattubi-Manor-Portfolio/media/Preview4.mp4)
+[![Preview 5](https://raw.githubusercontent.com/klawicki904/Cattubi-Manor-Portfolio/main/media/Preview5Thumbnail.png)](https://raw.githubusercontent.com/klawicki904/Cattubi-Manor-Portfolio/media/Preview5.mp4)
+[![Preview 6](https://raw.githubusercontent.com/klawicki904/Cattubi-Manor-Portfolio/main/media/Preview6Thumbnail.png)](https://raw.githubusercontent.com/klawicki904/Cattubi-Manor-Portfolio/media/Preview6.mp4)
 
 ---
 
