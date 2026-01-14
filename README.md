@@ -24,9 +24,9 @@ Projekt został porzucony na etapie dopracowywania warstwy wizualnej (animacje, 
 ![Preview 3](media/Preview3.jpg)
 
 ### Wideo
-- [Preview 4](media/Preview4.mp4)
-- [Preview 5](media/Preview5.mp4)
-- [Preview 6](media/Preview6.mp4)
+![Preview 4](media/Preview4.mp4)
+![Preview 5](media/Preview5.mp4)
+![Preview 6](media/Preview6.mp4)
 
 ---
 
