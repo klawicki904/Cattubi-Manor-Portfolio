@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/cdf9f8d4-52fc-4375-9c0f-18d6fc142f05
 ---
 
 ## Status projektu
-- Projekt edukacyjny  
-- Wersja grywalna ukończona w ok. 70%  
+- Projekt edukacyjny, porzucony
+- Wersja grywalna ukończona w ok. 70%
 
 **Kod źródłowy nieudostępniony** (projekt zawiera treści NSFW)
